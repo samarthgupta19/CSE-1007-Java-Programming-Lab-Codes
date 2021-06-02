@@ -1,4 +1,6 @@
 19BDS0042 - SAMARTH GUPTA
+
+JAVA LAB QUESTIONS
 _________________________________________________________________________________________________________________________________________________________________________________
 
 1) Consider a class of 5 students for the course CSE1001. Below is mark scored by the
@@ -124,7 +126,6 @@ ________________________________________________________________________________
 ·         Speed
 
 ·         Year of Manufacture
-_________________________________________________________________________________________________________________________________________________________________________________
 
 The class should hide these attributes from outside access but any sub classes of the Vehicle Class should be able to access them directly.
 Provide methods to get the values of these attributes and set values to them.
