@@ -9,18 +9,9 @@ Java Programming - Lab Codes - CSE : 1007
 
 1) Consider a class of 5 students for the course CSE1001. Below is mark scored by the
 students?
-Register Number  Mark
-    REG1001       56
-    REG1002       76
-    REG1003       85
-    REG1004       92
-    REG1005       66
-Calculate Grade as per data given below:
-___________________________________________________________________________
-| < 50 | >=50 and <60 | >=60 and <70 | >=70 and <80 | >=80 and <90 | <=90 |
----------------------------------------------------------------------------
-|  F   |       D      |       C      |       B      |       A      |   S  |
----------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/53513648/120498052-8ebe7500-c3dc-11eb-9fea-871efb0ccd55.png)
+
 Display the absolute grade for each student and class average. (Use Array implementation).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -103,7 +94,18 @@ data2.java: 130
 17) Using JavaFX, create a menu named Shape. Add sub menu items such as Circle, Rectangle, Square, and Triangle. When user clicks the sub menu items, display the formula to find area of the selected shape.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-18) Create a class named Vehicle with the following attributes.
+18) Write a program to demonstrate the knowledge of students in multithreading. 
+Eg., Three students A, B and C of B.Tech- II year contest for the PR election. With the total strength of 240 students in II year, simulate the vote casting by generating 240 random numbers (1 for student A, 2 for B and 3 for C) and store them in an array. Create four threads to equally share the task of counting the number of votes cast for all the three candidates. Use synchronized method or synchronized block to update the three count variables. The main thread should receive the final vote count for all three contestants and hence decide the PR based on the values received.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+19) Write a java program to convert the given Pig Latin string into English
+string, Pig Latin string is nothing but reversing each word from the given
+text and appending the character ‘a’ to the start and end of each reversed
+word. say the Pig Latin String of “I love Java” is “aIa aevola aavaJa”.
+Obtain Pig Latin string from user and convert into English string.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20) Create a class named Vehicle with the following attributes.
 
 ·         Owner
 
