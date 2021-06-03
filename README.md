@@ -123,3 +123,17 @@ In one of your two sub classes of Vehicle class, define a speed limit in such a 
 Write a separate class with main() in Java to check the functionalities of the above defined classes.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+21) Write a program to demonstrate the knowledge of students in working with Java collection
+framework.
+Eg., Assume only a maximum of 3 courses can be registered by a student for week end semester
+classes. Create a hashmap ‘h1’ with ‘n’ key-value pairs where keys are the names of students
+and values are the courses registered by them. Create another hashmap ‘h2’ with ‘m’key-value
+pairs where keys are the names of courses offered for B.Tech and values are the names of
+faculty handling the courses. Write appropriate code to
+- Add or remove a student from h1
+- Iterate over the maps and display the key-value pairs stored in them
+- Given a student name, fetch the names of all those who teach him/her.
+
+![image](https://user-images.githubusercontent.com/53513648/120629132-1fe82700-c483-11eb-8fa6-98ca8c4d215e.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
